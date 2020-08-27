@@ -1,0 +1,11 @@
+PLACE LIST
+
+To join any of these, type
+the place name between "[]" brackets. If it begins with "-" its just features.
+Also, "//" is a comment beginning.
+
+[TapAndSmash]
+- MultiKeyboard Enhanced //TeamViewer compatible to play with your friends? I guess...
+- Perfomance Heavy //It has many blocks and a block generator.
+- Infinite Void //You fall indefinetly. R to Respawn and ESC to Go Home.
+- EXTRA KEYBINDS: O for slow physics and P to reset physics.
