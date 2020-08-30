@@ -8,4 +8,11 @@ Also, "//" is a comment beginning.
 - MultiKeyboard Enhanced //TeamViewer compatible to play with your friends? I guess...
 - Perfomance Heavy //It has many blocks and a block generator.
 - Infinite Void //You fall indefinetly. R to Respawn and ESC to Go Home.
-- EXTRA KEYBINDS: O for slow physics and P to reset physics.
+
+[HutsAndStuff]
+- KIND OF Perfomance Heavy //It has many spheres.
+- Infinite Void //You fall indefinetly. R to Respawn and ESC to Go Home.
+
+[WorknobeHQ]
+- VERY Perfomance Heavy //It has many blocks, optimizations were heavily used.
+- Infinite Void //You fall indefinetly. R to Respawn and ESC to Go Home.
