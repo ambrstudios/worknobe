@@ -16,3 +16,6 @@ Also, "//" is a comment beginning.
 [WorknobeHQ]
 - VERY Perfomance Heavy //It has many blocks, optimizations were heavily used.
 - Infinite Void //You fall indefinetly. R to Respawn and ESC to Go Home.
+
+[ObbyForEpicNoobs]
+- Infinite Void //You fall indefinetly. R to Respawn and ESC to Go Home.
