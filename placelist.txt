@@ -1,7 +1,6 @@
 PLACE LIST
 
-To join any of these, type
-the place name between "[]" brackets. If it begins with "-" its just features.
+To join any of these, type the place name between "[]" brackets. If it begins with "-" its just features.
 Also, "//" is a comment beginning.
 
 [TapAndSmash]
@@ -9,9 +8,15 @@ Also, "//" is a comment beginning.
 - Perfomance Heavy //It has many blocks and a block generator.
 - Infinite Void //You fall indefinetly. R to Respawn and ESC to Go Home.
 
+[techtest]
+-Testing place for latest additions, which may not be fully added.
+
 [HutsAndStuff]
 - KIND OF Perfomance Heavy //It has many spheres.
 - Infinite Void //You fall indefinetly. R to Respawn and ESC to Go Home.
+
+[CrossingRoads]
+-You have two cars and your player. WASD for Player (Space to jump with Player) UHJK for Blue Car and FCVB for Yellow Car
 
 [WorknobeHQ]
 - VERY Perfomance Heavy //It has many blocks, optimizations were heavily used.
